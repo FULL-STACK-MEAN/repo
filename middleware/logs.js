@@ -1,1 +1,1 @@
-console.log('log');
+exports.showMensaje = () => console.log('log');
