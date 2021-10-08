@@ -1,2 +1,1 @@
-const showMessage = () => {console.log('log');}
-module.exports = {showMessage};
+exports.showMensaje = () => console.log('log');
